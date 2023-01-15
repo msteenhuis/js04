@@ -1,0 +1,16 @@
+html{
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font: bold 18pt calibri;
+}
+
+div {
+  border: thick double black;
+}
+
+textarea {
+  width:50%;
+}
